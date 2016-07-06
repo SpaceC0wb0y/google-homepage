@@ -1,0 +1,29 @@
+#body {
+  display:block;
+}
+
+.ctr-p {
+  margin: 0 auto;
+  min-width: 980px;
+}
+
+#lga {
+  height: 233px;
+  margin-top: 89px;
+}
+
+.Gimg {
+  height: 133px;
+  margin-top: 89px;
+}
+
+.search input {
+  width: 500px;
+  margin-top: 20px;
+  background-color: #fff;
+  height: 24px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
